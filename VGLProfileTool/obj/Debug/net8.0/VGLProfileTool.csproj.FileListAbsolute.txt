@@ -1,0 +1,14 @@
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\bin\Debug\net8.0\VGLProfileTool.exe
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\bin\Debug\net8.0\VGLProfileTool.deps.json
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\bin\Debug\net8.0\VGLProfileTool.runtimeconfig.json
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\bin\Debug\net8.0\VGLProfileTool.dll
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\bin\Debug\net8.0\VGLProfileTool.pdb
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\VGLProfileTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\VGLProfileTool.AssemblyInfoInputs.cache
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\VGLProfileTool.AssemblyInfo.cs
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\VGLProfileTool.csproj.CoreCompileInputs.cache
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\VGLProfileTool.dll
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\refint\VGLProfileTool.dll
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\VGLProfileTool.pdb
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\VGLProfileTool.genruntimeconfig.cache
+C:\Users\domin\OneDrive\Documents\Programming Learning\C#\VGLProfileTool\VGLProfileTool\obj\Debug\net8.0\ref\VGLProfileTool.dll
